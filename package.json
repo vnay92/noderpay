@@ -16,12 +16,13 @@
     "payments"
   ],
   "author": "Vinay Bharadwaj",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vnay92/noderpay/issues"
   },
   "homepage": "https://github.com/vnay92/noderpay#readme",
   "dependencies": {
-    "requests": "^0.1.7"
-  }
+    "request": "^2.74.0"
+  },
+  "devDependencies": {}
 }
